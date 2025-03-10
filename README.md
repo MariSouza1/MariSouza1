@@ -7,18 +7,17 @@
 ---
 
 ## 🌟 Sobre mim  
-- 🎯 Atualmente estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-- 📈 Me interessada por **dados, inteligência de negócios e desenvolvimento web**  
-- 💡 Buscando aprimorar minhas habilidades em **backend, frontend e banco de dados**  
-- ✨ Amo aprender coisas novas e encarar desafios  
+- Atualmente estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+- Me interesso por **dados, inteligência de negócios e desenvolvimento web**  
+- Buscando aprimorar minhas habilidades em **backend, frontend e banco de dados**  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
 ### 🔹 Habilidades  
-✅ **Linguagens e Tecnologias:** HTML, CSS, Python  
-✅ **Banco de Dados:** SQL  
-✅ **Ferramentas:** Git, Power BI  
+ **Linguagens e Tecnologias:** HTML, CSS, Python  
+ **Banco de Dados:** SQL  
+ **Ferramentas:** Git, Power BI  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,sql)](https://skillicons.dev)  
 
