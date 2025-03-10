@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou a Mariany!  
 
-<!--
-**MariSouza1/MariSouza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📊 Estou focada em **Análise de Dados** e me desenvolvendo como **Fullstack**  
+🚀 Explorando **tecnologias backend, frontend e ciência de dados**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mim  
+- 🎯 Atualmente estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+- 📈 Me interessada por **dados, inteligência de negócios e desenvolvimento web**  
+- 💡 Buscando aprimorar minhas habilidades em **backend, frontend e banco de dados**  
+- ✨ Amo aprender coisas novas e encarar desafios  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+### 🔹 Habilidades  
+✅ **Linguagens e Tecnologias:** HTML, CSS, Python  
+✅ **Banco de Dados:** SQL  
+✅ **Ferramentas:** Git, Power BI  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,git,postgresql)](https://skillicons.dev)  
+
+📌 Atualmente estudando: **Banco de Dados, APIs e análise de Dados**  
+
+---
+
+## Como entrar em contato comigo?  
+📧 E-mail: **marysouzal1707@gmail.com**  
+🌎 [LinkedIn](https://www.linkedin.com/in/mariany-souza/)   
+
