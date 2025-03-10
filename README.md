@@ -27,13 +27,14 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariSouza1&show_icons=true&theme=dracula)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariSouza1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## Como entrar em contato comigo?  
 📧 E-mail: **marysouzal1707@gmail.com**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariany-souza/)  
 
 
