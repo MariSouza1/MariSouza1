@@ -1,8 +1,8 @@
 # Olá, eu sou a Mariany!  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📊 Estou focada em **Análise de Dados** e me desenvolvendo como **desenvolvimento web**  
-🚀 No momento estou buscando aprimorar minhas habilidades em **frontend e banco de dados**  
+📊 Estou focada em **Análise de Dados** e **desenvolvimento fullstack**  
+🚀 No momento estou buscando aprimorar minhas habilidades em **back e banco de dados**  
 
 ---
 
