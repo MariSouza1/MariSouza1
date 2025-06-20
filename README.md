@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologias & Ferramentas  
 ### 🔹 Habilidades  
  **Linguagens e Tecnologias:** Javascript, Python  
- **Banco de Dados:** SQL  
+ **Banco de Dados:** SQL, MySQL
  **Ferramentas:** Git, Power BI, Excel  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,sql)](https://skillicons.dev)
