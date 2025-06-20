@@ -2,7 +2,7 @@
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 📊 Estou focada em **Análise de Dados** e **desenvolvimento fullstack**  
-🚀 No momento estou buscando aprimorar minhas habilidades em **back e banco de dados**  
+🚀 No momento estou buscando aprimorar minhas habilidades em **Javascript e Python**  
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 📊 Estatísticas do GitHub  
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariSouza1&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariSouza1&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariSouza1&layout=compact&theme=tokyonight)
 
 ---
 
