@@ -2,14 +2,14 @@
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 📊 Estou focada em **Análise de Dados** e **desenvolvimento fullstack**  
-🚀 No momento estou buscando aprimorar minhas habilidades em **Javascript e Python**  
+🚀 No momento estou buscando aprimorar minhas habilidades em **Python**  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
 ### 🔹 Habilidades  
  **Linguagens e Tecnologias:** Javascript, Python  
- **Banco de Dados:** SQL, MySQL
+ **Banco de Dados:** SQL, Postgree
  **Ferramentas:** Git, Power BI, Excel  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,sql)](https://skillicons.dev)
