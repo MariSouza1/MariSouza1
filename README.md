@@ -8,8 +8,8 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 ### 🔹 Habilidades  
- **Linguagens e Tecnologias:** Javascript, Python  
- **Banco de Dados:** SQL, Postgree
+ **Linguagens e Tecnologias:** Python  
+ **Banco de Dados:** SQL, PostgreSQL
  **Ferramentas:** Git, Power BI, Excel  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,sql)](https://skillicons.dev)
