@@ -1,7 +1,7 @@
 # Olá, eu sou a Mariany!  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📊 Estou focada em **Análise de Dados** e **desenvolvimento fullstack**  
+📊 Estou focada em **Análise de Dados** e **desenvolvimento fullstack** para automação  
 🚀 No momento estou buscando aprimorar minhas habilidades em **Python**  
 
 ---
@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologias & Ferramentas  
 ### 🔹 Habilidades  
  **Linguagens e Tecnologias:** Python  
- **Banco de Dados:** SQL, PostgreSQL
+ **Banco de Dados:** SQL, PostgreSQL, SQLite
  
  **Ferramentas:** Git, Power BI, Excel  
 
