@@ -18,7 +18,11 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Top Langs](https://camo.githubusercontent.com/MariSouza1)
+<img
+    height="195"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=MariSouza1&langs_count=4&theme=radical"
+  />
 
 ---
 
