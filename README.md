@@ -18,8 +18,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariSouza1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariSouza1&layout=compact&theme=radical)
+![Top Langs](https://camo.githubusercontent.com/741126f8ce05e3e1baa68da6cb515c319b6c774a006a74db94972ea661480030/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d73672d6761627269656c266c616e67735f636f756e743d34267468656d653d7261646963616c)
 
 ---
 
